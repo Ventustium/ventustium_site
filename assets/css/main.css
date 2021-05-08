@@ -23,6 +23,7 @@ body {
     background: #111;
     color: #ccc;
     font: normal Iosevka, monospace;
+    font-size: 20px;
 }
 
 #particles-js{
@@ -43,8 +44,18 @@ body {
     width: max-content;
     display: grid;
     grid-template-columns: auto auto;
-    margin-top: 20%;
     background-color: rgba(73, 73, 73, 0.1);
+}
+
+.img-container{
+    margin:auto;
+    width: max-content;
+    margin-top: 15%;
+}
+
+.img1{
+    width: 250px;
+    
 }
 
 .panel>*:nth-child(odd) {
@@ -63,7 +74,33 @@ body {
         flex-direction: column;
         margin-top: 10px;
     }
-    .panel{
+    .img-container{
         margin-top: 55%;
+    }
+    *{
+        font-size: 16px;
+    }
+}
+
+@media (min-width:576px) {
+
+    .img-container{
+        margin-top: 0%;
+    }
+}
+
+@media (min-width:768px) {
+
+}
+
+@media (min-width:992px) {
+    .img-container{
+        margin-top: 15%;
+    }
+}
+
+@media (min-width:1200px) {
+    .img-container{
+        margin-top: 15%;
     }
 }
