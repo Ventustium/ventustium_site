@@ -20,4 +20,5 @@ Route::get('/', function () {
 Route::get('/grandchase', function() {
 	return view('grandchase');
 });
-Route::get('/mikrotik-notification/hashdaowijd1290o3u', [MikrotikDiscordController::class, 'send']);
+Route::get('/mikrotik-notification/'.env("DISCORD_KEY"), [MikrotikDiscordController::class, 'send']);
+Route::get('/redis/{id}', [MikrotikDiscordController::class, 'show']);
