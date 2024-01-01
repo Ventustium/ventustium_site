@@ -57,8 +57,7 @@
                 <a href="mailto:kevin@ventustium.com">email</a>
                 <a href="https://steamcommunity.com/id/Ventustium/">steam</a>
                 <p> <a href="https://syosetu.ventustium.com/">web novel tl</a>
-		    <a href="https://osu.ppy.sh/users/10358128">osu!</a>
-		<a href="https://docs.google.com/document/d/11Jz-0U3p9z9yX9w5s2gIdVRd6mdlB-lN7KEnkBk5_Zk/edit?usp=sharing">CV<a/>
+		        <a href="https://osu.ppy.sh/users/10358128">osu!</a>
                 </p>
             </div>
         </div>
