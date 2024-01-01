@@ -5,11 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ventustium - Kevin Linuhung</title>
-    <meta name="description" content="Ventustium - Kevin Luis Linuhung. Electrical Engineering Student at Petra Christian University. Email: kevin@ventustium.com">
+    <meta name="description" content="Ventustium - Kevin Luis Linuhung.
+    Software Developer @Petra Christian University.
+    Email: kevin@ventustium.com">
     <meta name="keywords" content="Ventustium, ventustium, Kevin Linuhung, kevin linuhung, Kevin, kevin, kevin luis, Kevin Luis, linuhung, Linuhung, luis, Luis">
     <meta name="robots" content="all">
     <meta property="og:title" content="Ventustium - Kevin Linuhung">
-    <meta property="og:description" content="Ventustium - Kevin Luis Linuhung. Electrical Engineering Student at Petra Christian University. Email: kevin@ventustium.com">
+    <meta property="og:description" content="Ventustium - Kevin Luis Linuhung.
+
+    Software Developer @Petra Christian University.
+    Email: kevin@ventustium.com">
+    <meta property="og:image" content="https://ventustium.com/assets/image/600px-logo.png">
+    <meta property="og:url" content="https://ventustium.com">
+
     <link rel="icon" href="assets/image/logo.png">
 
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
@@ -31,7 +39,7 @@
             </div>
             <p>about</p>
             <div>
-                <p>electrical engineering student</p>
+                <p>software developer</p>
                 <p>@petra christian university</p>
             </div>
             <p></p>
