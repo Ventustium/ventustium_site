@@ -13,7 +13,7 @@ class MikrotikDiscordController extends Controller
 {
     //
     public function send(Request $request) {
-        $time = Carbon::now()->toDayDateTimeString();
+	$time = Carbon::now()->format('D, M j, Y g:i:s A');
 
         $text = $request->input('text');
 
